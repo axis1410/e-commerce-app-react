@@ -2,29 +2,6 @@ import CategoryItem from './components/category-item/category-item.component.jsx
 import Directory from './components/directory/directory.component';
 
 const App = () => {
-	// const categories = [
-	// 	{
-	// 		id: 1,
-	// 		title: 'Hats',
-	// 	},
-	// 	{
-	// 		id: 2,
-	// 		title: 'Jackets',
-	// 	},
-	// 	{
-	// 		id: 3,
-	// 		title: 'Sneakers',
-	// 	},
-	// 	{
-	// 		id: 4,
-	// 		title: "Women's",
-	// 	},
-	// 	{
-	// 		id: 5,
-	// 		title: "Men's",
-	// 	},
-	// ];
-
 	const categories = [
 		{
 			id: 1,
